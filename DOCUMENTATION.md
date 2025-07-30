@@ -477,13 +477,7 @@ try {
 } catch (Exception $e) {
     echo "Redis connection failed: " . $e->getMessage() . "\n";
 }
-```
-
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/ai-rate-limiter/issues)
-- **Documentation**: [Wiki](https://github.com/yourusername/ai-rate-limiter/wiki)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/ai-rate-limiter/discussions)
+``` 
 
 ## 📄 License
 
