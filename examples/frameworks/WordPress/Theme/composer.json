@@ -1,0 +1,21 @@
+{
+    "name": "wordpress-theme/ai-rate-limiter",
+    "description": "WordPress theme integration with AI Rate Limiter",
+    "type": "wordpress-theme",
+    "require": {
+        "php": ">=7.4",
+        "ahur-system/ai-rate-limiter": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Theme\\": "src/"
+        }
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "preferred-install": "dist",
+        "sort-packages": true
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+} 
