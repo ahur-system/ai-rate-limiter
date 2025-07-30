@@ -9,6 +9,9 @@ composer.phar
 *.swp
 *.swo
 *~
+.cursor/*
+CLEANUP_SUMMARY.md
+PUBLICATION_CHECKLIST.md
 
 # OS
 .DS_Store
