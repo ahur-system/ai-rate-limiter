@@ -14,10 +14,10 @@
     "php",
     "composer"
   ],
-  "homepage": "https://github.com/yourusername/ai-rate-limiter",
+  "homepage": "https://github.com/ahur-system/ai-rate-limiter",
   "support": {
-    "issues": "https://github.com/yourusername/ai-rate-limiter/issues",
-    "source": "https://github.com/yourusername/ai-rate-limiter"
+    "issues": "https://github.com/ahur-system/ai-rate-limiter/issues",
+    "source": "https://github.com/ahur-system/ai-rate-limiter"
   },
   "authors": [
     {
@@ -60,14 +60,14 @@
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/ai-rate-limiter.git"
+    "url": "https://github.com/ahur-system/ai-rate-limiter.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/ai-rate-limiter/issues"
+    "url": "https://github.com/ahur-system/ai-rate-limiter/issues"
   },
   "funding": {
     "type": "individual",
-    "url": "https://github.com/yourusername/ai-rate-limiter"
+    "url": "https://github.com/ahur-system/ai-rate-limiter"
   },
   "engines": {
     "php": ">=8.1"

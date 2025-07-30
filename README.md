@@ -66,7 +66,7 @@ composer require ahur-system/ai-rate-limiter
 
 ### Manual Installation
 ```bash
-git clone https://github.com/yourusername/ai-rate-limiter.git
+git clone https://github.com/ahur-system/ai-rate-limiter.git
 cd ai-rate-limiter
 composer install
 ```
@@ -247,7 +247,7 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 ### Development Setup
 ```bash
-git clone https://github.com/yourusername/ai-rate-limiter.git
+git clone https://github.com/ahur-system/ai-rate-limiter.git
 cd ai-rate-limiter
 composer install
 composer test
@@ -265,9 +265,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/ai-rate-limiter/issues)
-- **Documentation**: [Wiki](https://github.com/yourusername/ai-rate-limiter/wiki)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/ai-rate-limiter/discussions)
+- **Issues**: [GitHub Issues](https://github.com/ahur-system/ai-rate-limiter/issues)
+- **Documentation**: [Wiki](https://github.com/ahur-system/ai-rate-limiter/wiki)
+- **Discussions**: [GitHub Discussions](https://github.com/ahur-system/ai-rate-limiter/discussions)
 
 ---
 

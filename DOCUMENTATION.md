@@ -40,7 +40,7 @@ composer require ahur-system/ai-rate-limiter
 ### Manual Installation
 
 ```bash
-git clone https://github.com/yourusername/ai-rate-limiter.git
+git clone https://github.com/ahur-system/ai-rate-limiter.git
 cd ai-rate-limiter
 composer install
 ```

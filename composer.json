@@ -12,15 +12,15 @@
         "adaptive",
         "strategy-pattern"
     ],
-    "homepage": "https://github.com/yourusername/ai-rate-limiter",
+    "homepage": "https://github.com/ahur-system/ai-rate-limiter",
     "support": {
-        "issues": "https://github.com/yourusername/ai-rate-limiter/issues",
-        "source": "https://github.com/yourusername/ai-rate-limiter"
+        "issues": "https://github.com/ahur-system/ai-rate-limiter/issues",
+        "source": "https://github.com/ahur-system/ai-rate-limiter"
     },
     "authors": [
         {
             "name": "Ahur System",
-            "email": "developer@ahursystem.com"
+            "email": "apps.khaleghi@gmail.com"
         }
     ],
     "require": {
