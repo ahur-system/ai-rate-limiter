@@ -41,4 +41,15 @@ coverage.txt
 
 # Backup files
 *.bak
-*.backup 
+*.backup
+
+# Package management
+package-lock.json
+yarn.lock
+node_modules/
+
+# NPM
+.npm/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log* 
